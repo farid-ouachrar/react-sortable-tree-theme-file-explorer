@@ -96,6 +96,7 @@
   @extend %rowItem;
   flex: 0 1 auto;
   padding-right: 20px;
+  z-index: 500;
 }
 
 .rowToolbar {
